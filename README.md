@@ -20,6 +20,7 @@
 | Day 6 | 2026-08-26 | if语句的嵌套和逻辑运算符 |
 | Day 7 | 2026-08-27 | while循环 |
 | Day 8 | 2026-08-28 | while break continue |
+| Day 9 | 2026-08-29 | for语句 range语句 |
 
 ## 我的目标
 
