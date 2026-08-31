@@ -19,9 +19,10 @@
 | Day 5 | 2026-08-25 | 条件判断if elif else |
 | Day 6 | 2026-08-26 | if语句的嵌套和逻辑运算符 |
 | Day 7 | 2026-08-27 | while循环 |
-| Day 8 | 2026-08-28 | while break continue |
-| Day 9 | 2026-08-29 | for语句 range语句 |
-| Day 10 | 2026-08-30 | 函数 传入参数 返回值 None |
+| Day 8 | 2026-08-28 | while、break、continue |
+| Day 9 | 2026-08-29 | for语句、range语句 |
+| Day 10 | 2026-08-30 | 函数、传入参数、返回值、None |
+| Day 11 | 2026-08-31 | 函数进阶与作用域 |
 
 ## 我的目标
 
